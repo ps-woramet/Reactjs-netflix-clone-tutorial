@@ -43,7 +43,7 @@
 6. save รูปภาพมาไว้ที่ assets
 
 7. ติดตั้ง extentions ES7+React/Redux/React-Native snippets 
-   สำหรับพิมพ์ short cut (rfce)
+   สำหรับพิมพ์ shortcut (rfce)
 
 8. เพิ่ม tag html ต่างๆ ใน Header.jsx
 

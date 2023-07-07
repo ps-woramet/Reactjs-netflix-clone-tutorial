@@ -5,6 +5,8 @@ export const HeaderCon = styled.section`
     height: 480px;
     background: url(${HeaderBG});
     box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.5);
+    background-position: center;
+    background-size: cover;
 `
 
 export const NavCon = styled.nav`
