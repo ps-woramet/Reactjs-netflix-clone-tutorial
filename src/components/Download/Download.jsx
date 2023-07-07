@@ -39,18 +39,3 @@ function Download() {
 }
 
 export default Download
-        {/* <img src={ mobileImg } alt="" />
-            <img src={ boxshotImg } alt="" />
-            <div>
-                <p>Stranger Things</p>
-                <p>Downloading...</p>
-            </div>
-            <img src={ downloadIcon } alt="" />
-
-            <h3>
-                Download your shows to watch offline
-            </h3>
-            <p>
-                Save your favorites easily and always have <br/>
-                something to watch.
-            </p> */}
