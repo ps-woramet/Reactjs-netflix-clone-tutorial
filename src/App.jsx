@@ -8,6 +8,7 @@ import Download from './components/Download/Download'
 import Watch from './components/Watch/Watch'
 import Kids from './components/Kids/Kids'
 import Question from './components/Question/Question'
+import Footer from './components/Footer/Footer'
 
 import data from './data'
 
@@ -32,6 +33,7 @@ function App() {
             <button type='Submit' style={{width: '20%', padding: '1rem 0.5rem', background: '#e50914', color: 'white', borderRadius: '0.5rem', border: 'none'}}>Get Started</button>
           </div>
         </div>
+        <Footer/>
       </div>
   )
 }
