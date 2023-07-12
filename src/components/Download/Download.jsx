@@ -25,9 +25,9 @@ function Download() {
                 </div>
             </div>
             <div style={{height:'100%', color: 'white'}}>
-                <h3 style={{marginTop: '1.5rem'}}>
+                <h1 style={{marginTop: '1.5rem'}}>
                     Download your shows to watch offline
-                </h3>
+                </h1>
                 <p style={{fontSize: '0.8rem', marginTop: '1.5rem'}}>
                     Save your favorites easily and always have <br/>
                     something to watch.
