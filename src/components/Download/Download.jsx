@@ -24,14 +24,16 @@ function Download() {
                     <img style = {{height: '100%', width: '20%'}} src={ downloadIcon } alt="" />
                 </div>
             </div>
-            <div style={{height:'100%', color: 'white'}}>
-                <h1 style={{marginTop: '1.5rem'}}>
-                    Download your shows to watch offline
-                </h1>
-                <p style={{fontSize: '0.8rem', marginTop: '1.5rem'}}>
-                    Save your favorites easily and always have <br/>
-                    something to watch.
-                </p>
+            <div style={{height:'100%', color: 'white', display: 'flex', flexDirection: 'column', justifyContent: 'center'}}>
+                <div>
+                    <h1 style={{marginTop: '1.5rem'}}>
+                        Download your shows to watch offline
+                    </h1>
+                    <p style={{fontSize: '0.8rem', marginTop: '1.5rem'}}>
+                        Save your favorites easily and always have <br/>
+                        something to watch.
+                    </p>
+                </div> 
             </div>
         </div>
     </DownloadCon>
